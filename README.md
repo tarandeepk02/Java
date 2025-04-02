@@ -22,7 +22,7 @@ Each program is designed to help with specific real-world calculations.
    ```
 2. Navigate to the folder containing the program file you wish to run.
 3. Compile and run the programs using the following commands:
-  ```
-  javac <ProgramName>.java
-  java <ProgramName>
-  ```
+     ```
+     javac <ProgramName>.java
+     java <ProgramName>
+     ```
