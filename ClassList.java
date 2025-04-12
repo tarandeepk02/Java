@@ -233,8 +233,7 @@ public class ClassList {
 
     File myFile = new File(FILE_PATH);
     PrintWriter outputFile = new PrintWriter(
-      new File(
-        "D:\\Langara\\Spring2024\\CPSC1150\\Assignments\\Assignment5\\" +
+      new File(        
         fileName
       )
     );
