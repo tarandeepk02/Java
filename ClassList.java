@@ -6,7 +6,7 @@ public class ClassList {
   static Scanner scanner = new Scanner(System.in);
   //Set File path globally
   static final String FILE_PATH =
-    "D:\\Langara\\Spring2024\\CPSC1150\\Assignments\\Assignment5\\classList.txt";
+    "classList.txt";
 
   public static void main(String[] args) {
     int choice;
